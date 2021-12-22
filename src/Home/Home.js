@@ -13,6 +13,7 @@ function Home() {
             <div className="home__row">
                 {/* Product */}
                 <Product 
+                    id="4234352353"
                     title="The lean startup" 
                     image="https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._SX325_BO1,204,203,200_.jpg"
                     price={29.99} 
